@@ -6,7 +6,7 @@ public class test1 {
 		// TODO Auto-generated method stub
 		System.out.println("test1");
 		//왼쪽1-2
-		//오른쪽1
+		//오른쪽1-1
 
 	}
 
