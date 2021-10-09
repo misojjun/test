@@ -5,7 +5,7 @@ public class test1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("test1");
-		//왼쪽1-2
+		//왼쪽1-3
 		//오른쪽1
 
 	}
