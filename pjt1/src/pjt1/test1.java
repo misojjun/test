@@ -7,6 +7,7 @@ public class test1 {
 		System.out.println("test1");
 		//왼쪽1-2
 		//오른쪽1
+
 	}
 
 }
